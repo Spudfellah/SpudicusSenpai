@@ -13,8 +13,9 @@
 ## Services
 
 <p style = "margin-left: 30px">
-Maybe available to build your web3 and/or game solution, starting at $10K and delivery within a month. Reach out and let me know what you need.<br>
-20+ years of development experience on projects ranging from small applications to complex enterprise solutions.<br>
+Maybe available to build your web3 and/or game solution, starting at $10K and delivery within a month.
+Reach out and let me know what you need.<br>
+20+ years of development experience ranging from small web3 projects to complex enterprise solutions.<br>
 </p>
 
 #### Website Development
