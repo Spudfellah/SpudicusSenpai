@@ -13,9 +13,8 @@
 ## Services
 
 <p style = "margin-left: 30px">
-Deep understanding of blockchain, web, and game development.<br>
-20+ years of development experience on projects ranging from small size applications to complex enterprise solutions.<br>
-Solutions start at $10,000 and delivery within a month.
+I'll build your web3 and/or game solution, starting at $10K and delivery within a month.<br>
+20+ years of development experience on projects ranging from small applications to complex enterprise solutions.<br>
 </p>
 
 #### Website Development
