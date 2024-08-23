@@ -25,15 +25,14 @@ Reach out and let me know what you need.<br>
 - <b>DevOps</b> : Amazon Web Services (Lambda, EC2, S3, etc), Google Cloud Platform, and so on
 
 #### Blockchain Development
-🚀 Web3 Integration <br>
-🚀 Cryptocurrency Wallets <br>
-🚀 Non-Custodial Wallets <br>
-🚀 NFT Minting Engines <br>
-🚀 Smart Contracts <br>
-🚀 NFT Websites <br>
-🚀 DeFi Solutions <br>
-🚀 dApp Development <br>
-🚀 NFT Marketplace Management <br>
+- Web3 Integration <br>
+- Cryptocurrency Wallets <br>
+- Non-Custodial Wallets <br>
+- Smart Contracts <br>
+- NFT Websites <br>
+- DeFi Solutions <br>
+- dApp Development <br>
+- NFT Marketplaces <br>
 
 ### Skills and Tools:
 
