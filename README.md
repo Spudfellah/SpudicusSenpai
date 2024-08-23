@@ -13,7 +13,8 @@
 ## Services
 
 <p style = "margin-left: 30px">
-Maybe available to build your web3 and/or game solution, starting at $10K and delivery within a month.
+I may be available to build your web3 and/or game solution. I need money to survive while building the Arken Realms.<br>
+Nothing illegal, no schemes, no rugpulls. Starting at $10K and delivery within a month.<br>
 Reach out and let me know what you need.<br>
 20+ years of development experience ranging from small web3 projects to complex enterprise solutions.<br>
 </p>
