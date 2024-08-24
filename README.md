@@ -13,10 +13,10 @@
 ## Services
 
 <p style = "margin-left: 30px">
-I may be available to build your web3 and/or game solution. I need money to survive while building the Return Portal to the Arken Realms.<br><br>
-Nothing illegal, no schemes, no rugpulls. Starting at $10K and delivery within a month.<br><br>
-20+ years of development experience ranging from small web3 projects to complex enterprise solutions.<br><br>
-Reach out and let me know what you need.<br>
+I may be available to build your web3 and/or game solution because I funds to survive while building the Return Portal to the Arken Realms.<br>
+Nothing illegal, no schemes, no rugpulls. Starting at $10K and delivery within a month.<br>
+20+ years of development experience ranging from small web3 projects to complex enterprise solutions.<br>
+Reach out and let me know what you need.<br><br>
 </p>
 
 #### Website Development
