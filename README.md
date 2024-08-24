@@ -7,7 +7,7 @@
   </a>
 </p>
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=returnportal&row=1&column=7&theme=dark_dimmed&margin-w=15&margin-h=15" />
+    <img src="https://github-profile-trophy.vercel.app/?username=returnportal&row=1&column=7&theme=onestar&margin-w=15&margin-h=15" />
 </p>
 
 ## Services
