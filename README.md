@@ -13,7 +13,7 @@
 ## Services
 
 <p style = "margin-left: 30px">
-I may be available to build your web3 and/or game products because I funds to build the Return Portal to the Arken Realms.<br>
+I may be available to build your web3 and/or game products because I need funds to build the Return Portal to the Arken Realms.<br>
 Nothing illegal, no schemes, no rugpulls. Working product delivered within a month.<br>
 20+ years of development experience ranging from niche web3 products to complex enterprise solutions.<br>
 Reach out and let me know what you need.<br><br>
