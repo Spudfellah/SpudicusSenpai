@@ -23,17 +23,15 @@ Reach out and let me know what you need.<br><br>
 - <b>Frontend</b> :  React | Next | Vue | Ant Design
 - <b>Backend</b> : Node | Express | Nest
 - <b>Database</b> : MySQL | PostgreSQL | MongoDB | IPFS
-- <b>DevOps</b> : Amazon Web Services (Lambda, EC2, S3, etc), Google Cloud Platform, and so on
+- <b>DevOps</b> : Amazon Web Services (AWS, Lambda, EC2, S3, etc), Google Cloud Platform (GCP), and so on
+- <b>Languages</b> : TypeScript | JavaScript | C/C++ | C# | Python | PHP | Ruby | Go | Rust
 
 #### Blockchain Development
-- Web3 Integration <br>
+- DeFi / Web3 / NFT Solutions <br>
+- NFT Websites / Marketplaces <br>
 - Cryptocurrency Wallets <br>
-- Non-Custodial Wallets <br>
 - Smart Contracts <br>
-- NFT Websites <br>
-- DeFi Solutions <br>
 - dApp Development <br>
-- NFT Marketplaces <br>
 
 ### Skills and Tools:
 
