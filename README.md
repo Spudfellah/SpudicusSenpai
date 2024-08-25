@@ -33,7 +33,7 @@ Reach out and let me know what you need.<br><br>
 - Smart Contracts <br>
 - dApp Development <br>
 
-### Skills and Tools:
+#### Skills and Tools
 
 <!-- Apps/Programs -->
 <code><img height="35" src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg"></code>
