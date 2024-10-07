@@ -1,13 +1,13 @@
 <p align="center">
-  <a href="https://github.com/returnportal?tab=repositories">
-    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=returnportal&theme=github_dark&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER"  width="48%" alt="@returnportal's github-readme-stats"/>
+  <a href="https://github.com/SpudicusSenpai?tab=repositories">
+    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=SpudicusSenpai&theme=github_dark&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER"  width="48%" alt="@SpudicusSenpai's github-readme-stats"/>
   </a>
-  <a href="https://github.com/returnportal?tab=stars">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=returnportal&theme=github_dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@returnportal's github-readme-streak-stats"/>
+  <a href="https://github.com/SpudicusSenpai?tab=stars">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=SpudicusSenpai&theme=github_dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@SpudicusSenpai's github-readme-streak-stats"/>
   </a>
 </p>
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=returnportal&row=1&column=7&theme=gitdimmed&margin-w=15&margin-h=15&rank=-C,-?&no-bg=true&no-frame=true" />
+    <img src="https://github-profile-trophy.vercel.app/?username=SpudicusSenpai&row=1&column=7&theme=gitdimmed&margin-w=15&margin-h=15&rank=-C,-?&no-bg=true&no-frame=true" />
 </p>
 
 ## Services
