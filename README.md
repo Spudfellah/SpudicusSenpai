@@ -12,8 +12,6 @@
 
 ## Services
 
-<p style = "margin-left: 30px">buidl
-</p>
 
 #### Website Development
 - <b>Frontend</b> :  React | Next | Vue | Ant Design
